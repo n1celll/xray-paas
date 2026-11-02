@@ -1,0 +1,1 @@
+{"description":"Minimal Xray VLESS+WS server for PaaS deploys (edge terminates TLS)","engines":{"node":">=18"},"main":"server.js","name":"xray-paas","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
